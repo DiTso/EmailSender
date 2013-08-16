@@ -1,6 +1,6 @@
 //<?php
 /**
- * Email Sender MODx Evolution
+ * subscribe
  *  
  * @category 	   snippet
  * @version 	   0.1.0
